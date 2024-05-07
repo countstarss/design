@@ -1,1 +1,3 @@
 # design
+
+![pic](/photo.png/)
