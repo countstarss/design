@@ -1,3 +1,3 @@
 # design
 
-![pic](/photo.png/)
+![pic](/平面.png/)
